@@ -17,4 +17,4 @@ Tvheadend imports local files with the *IPTV Automatic Network* by giving an url
 Credits:
 --------
 
-Thanks to the insightful thread in the `ComputerBase Forums https://www.computerbase.de/forum/threads/mit-mpc-be-stream-aufnehmen.1922912/ and the `kodinerds iptv list https://github.com/jnk22/kodinerds-iptv
+Thanks to the insightful thread in the ComputerBase Forums https://www.computerbase.de/forum/threads/mit-mpc-be-stream-aufnehmen.1922912/ and the kodinerds iptv list https://github.com/jnk22/kodinerds-iptv
