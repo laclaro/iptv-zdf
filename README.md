@@ -18,3 +18,10 @@ Credits:
 --------
 
 Thanks to the insightful thread in the ComputerBase Forums https://www.computerbase.de/forum/threads/mit-mpc-be-stream-aufnehmen.1922912/ and the kodinerds iptv list https://github.com/jnk22/kodinerds-iptv
+
+
+
+Example
+--------
+
+https://gist.github.com/laclaro/234f296751810c55b03db4c444ef7215
